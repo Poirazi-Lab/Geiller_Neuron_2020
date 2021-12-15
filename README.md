@@ -1,6 +1,6 @@
-# Analysis and data repository for Geiller, Vancura, et al., Neuron (2020)
+# Analysis and data repository for Geiller et al., Neuron 2020
 
-This repository contains code and links to dataset from Geiller T., Vancura B., et al. Neuron (2020).
+This repository contains code and links to dataset from Geiller T, Vancura B, Terada S, Troullinou E, Chavlis S, Tsagkatakis G, Tsakalides P, Ócsai K, Poirazi P, Rózsa BJ, Losonczy A. Large-Scale 3D Two-Photon Imaging of Molecularly Identified CA1 Interneuron Dynamics in Behaving Mice. Neuron. 2020 Dec 9;108(5):968-983.e9. doi: 10.1016/j.neuron.2020.09.013. Epub 2020 Oct 5. PMID: 33022227; PMCID: PMC7736348.
 
 
 ### Analysis code for machine-learning classification of interneuron subtypes:
